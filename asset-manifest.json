@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/apt5/static/css/main.baed5c23.css",
-    "main.js": "/apt5/static/js/main.378fc008.js",
+    "main.js": "/apt5/static/js/main.28d81315.js",
     "index.html": "/apt5/index.html",
     "main.baed5c23.css.map": "/apt5/static/css/main.baed5c23.css.map",
-    "main.378fc008.js.map": "/apt5/static/js/main.378fc008.js.map"
+    "main.28d81315.js.map": "/apt5/static/js/main.28d81315.js.map"
   },
   "entrypoints": [
     "static/css/main.baed5c23.css",
-    "static/js/main.378fc008.js"
+    "static/js/main.28d81315.js"
   ]
 }
